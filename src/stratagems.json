@@ -1,0 +1,359 @@
+[
+    {
+        "id": 1,
+        "name": "궤도 개틀링 폭격",
+        "commands": "d,s,a,w,w",
+        "category":"orbital"
+    },
+    {
+        "id": 2,
+        "name": "궤도 공중폭발 타격",
+        "commands": "d,d,d",
+        "category":"orbital"
+    },
+    {
+        "id": 3,
+        "name": "궤도 120mm 고폭 폭격",
+        "commands": "d,d,s,a,d,s",
+        "category":"orbital"
+    },
+    {
+        "id": 4,
+        "name": "궤도 380mm 고폭 폭격",
+        "commands": "d,s,w,w,a,s,s",
+        "category":"orbital"
+    },
+    {
+        "id": 5,
+        "name": "궤도 이동 폭격",
+        "commands": "d,s,d,s,d,s",
+        "category":"orbital"
+    },
+    {
+        "id": 6,
+        "name": "궤도 레이저",
+        "commands": "d,s,w,d,s",
+        "category":"orbital"
+    },
+    {
+        "id": 7,
+        "name": "궤도 레일캐넌 타격",
+        "commands": "d,w,s,s,d",
+        "category":"orbital"
+    },
+    {
+        "id": 8,
+        "name": "궤도 정밀 타격",
+        "commands": "d,d,w",
+        "category":"orbital"
+    },
+    {
+        "id": 9,
+        "name": "궤도 가스 타격",
+        "commands": "d,d,s,d",
+        "category":"orbital"
+    },
+    {
+        "id": 10,
+        "name": "궤도 EMS 타격",
+        "commands": "d,d,a,s",
+        "category":"orbital"
+    },
+    {
+        "id": 11,
+        "name": "궤도 연막 타격",
+        "commands": "d,d,s,w",
+        "category":"orbital"
+    },
+
+
+
+    {
+        "id": 12,
+        "name": "이글 기총소사",
+        "commands": "w,d,d",
+        "category":"eagle"
+    },
+    {
+        "id": 13,
+        "name": "이글 공중타격",
+        "commands": "w,d,s,d",
+        "category":"eagle"
+    },
+    {
+        "id": 14,
+        "name": "이글 집속탄",
+        "commands": "w,d,s,s,d",
+        "category":"eagle"
+    },
+    {
+        "id": 15,
+        "name": "이글 네이팜 공중타격",
+        "commands": "w,d,s,w",
+        "category":"eagle"
+    },
+    {
+        "id": 16,
+        "name": "이글 연막 타격",
+        "commands": "w,d,w,s",
+        "category":"eagle"
+    },
+    {
+        "id": 17,
+        "name": "이글 110mm 로켓 포드",
+        "commands": "w,d,w,a",
+        "category":"eagle"
+    },
+    {
+        "id": 18,
+        "name": "이글 500kg 폭탄",
+        "commands": "w,d,s,s,s",
+        "category":"eagle"
+    },
+   
+
+
+
+    {
+        "id": 19,
+        "name": "MG-43 기관총",
+        "commands": "s,a,s,w,d",
+        "category":"supply"
+    },
+    {
+        "id": 20,
+        "name": "APW-1 대물 소총",
+        "commands": "s,a,d,w,s",
+        "category":"supply"
+    },
+    {
+        "id": 21,
+        "name": "M-105 스털워트",
+        "commands": "s,a,s,w,w,a",
+        "category":"supply"
+    },
+    {
+        "id": 22,
+        "name": "EAT-17 일회성 대전차",
+        "commands": "s,s,a,w,d",
+        "category":"supply"
+    },
+    {
+        "id": 23,
+        "name": "GR-8 무산동 소총",
+        "commands": "s,a,d,d,a",
+        "category":"supply"
+    },
+
+
+    {
+        "id": 24,
+        "name": "FLAM-40 화염 방사기",
+        "commands": "s,a,w,s,w",
+        "category":"supply"
+    },
+    {
+        "id": 25,
+        "name": "AC-8 오토캐논",
+        "commands": "s,a,s,w,w,d",
+        "category":"supply"
+    },
+    {
+        "id": 26,
+        "name": "RS-422 레일건",
+        "commands": "s,d,s,w,a,d",
+        "category":"supply"
+    },
+    {
+        "id": 27,
+        "name": "FAF-14 스피어",
+        "commands": "s,s,w,s,s",
+        "category":"supply"
+    },
+    {
+        "id": 28,
+        "name": "GL-21 유탄 발사기",
+        "commands": "s,a,w,a,s",
+        "category":"supply"
+    },
+    {
+        "id": 29,
+        "name": "LAS-98 레이저 캐넌",
+        "commands": "s,a,s,w,a",
+        "category":"supply"
+    },
+    {
+        "id": 30,
+        "name": "ARC-3 아크 발사기",
+        "commands": "s,d,s,w,a,a",
+        "category":"supply"
+    },
+
+
+
+    {
+        "id": 31,
+        "name": "LIFT-850 점프팩",
+        "commands": "s,w,w,s,w",
+        "category":"supply"
+    },
+    {
+        "id": 32,
+        "name": "B-1 보급팩",
+        "commands": "s,a,s,w,w,s",
+        "category":"supply"
+    },
+    {
+        "id": 33,
+        "name": "AX/AR-23 '가드독'",
+        "commands": "s,w,a,w,d,s",
+        "category":"supply"
+    },
+    {
+        "id": 34,
+        "name": "AX-LAS-5 '가드독' 로버",
+        "commands": "s,w,a,w,d,d",
+        "category":"supply"
+    },
+    {
+        "id": 35,
+        "name": "SH-20 탄도 방패 배낭",
+        "commands": "s,a,s,s,w,a",
+        "category":"supply"
+    },
+    {
+        "id": 36,
+        "name": "SH-32 방어막 생성 팩",
+        "commands": "s,w,a,d,a,d",
+        "category":"supply"
+    },
+
+
+
+
+
+
+    {
+        "id": 37,
+        "name": "A/MG-43 기관총 센트리",
+        "commands": "s,w,d,d,w",
+        "category":"defensive"
+    },
+    {
+        "id": 38,
+        "name": "A/G-16 개틀링 센트리",
+        "commands": "s,w,d,a",
+        "category":"defensive"
+    },
+    {
+        "id": 39,
+        "name": "A/M-12 박격포 센트리",
+        "commands": "s,w,d,d,s",
+        "category":"defensive"
+    },
+    {
+        "id": 40,
+        "name": "A/AC-8 오토캐넌 센트리",
+        "commands": "s,w,d,w,a,w",
+        "category":"defensive"
+    },
+    {
+        "id": 41,
+        "name": "A/MSL-4X 로켓 센트리",
+        "commands": "s,w,d,d,a",
+        "category":"defensive"
+    },
+    {
+        "id": 42,
+        "name": "A/M-23 EMS 박격포 센트리",
+        "commands": "s,w,d,s,d",
+        "category":"defensive"
+    },
+    {
+        "id": 43,
+        "name": "A/ARC-3 테슬라 탑",
+        "commands": "s,w,d,w,a,d",
+        "category":"defensive"
+    },
+    {
+        "id": 44,
+        "name": "MD-6 대인 지뢰 매설 지역",
+        "commands": "s,a,w,d",
+        "category":"defensive"
+    },
+    {
+        "id": 45,
+        "name": "MD-14 소이지뢰",
+        "commands": "s,a,a,s",
+        "category":"defensive"
+    },
+    {
+        "id": 46,
+        "name": "E/MG-101 중기관총 거치포",
+        "commands": "s,w,a,d,d,a",
+        "category":"defensive"
+    },
+    {
+        "id": 47,
+        "name": "FX-12 방어막 생성 릴레이",
+        "commands": "s,s,a,d,a,d",
+        "category":"defensive"
+    },
+
+
+
+    {
+        "id": 48,
+        "name": "증원",
+        "commands": "w,s,d,a,w",
+        "category":"mission"
+    },
+    {
+        "id": 49,
+        "name": "재보급",
+        "commands": "s,s,w,d",
+        "category":"mission"
+    },
+    {
+        "id": 50,
+        "name": "SOS 신호기",
+        "commands": "w,s,d,w",
+        "category":"mission"
+    },
+    {
+        "id": 51,
+        "name": "지옥 폭탄",
+        "commands": "s,w,a,s,w,d,s,w",
+        "category":"mission"
+    },
+    {
+        "id": 52,
+        "name": "데이터 업로드",
+        "commands": "a,d,w,w,w",
+        "category":"mission"
+    },
+    {
+        "id": 53,
+        "name": "지진탐사기",
+        "commands": "w,w,a,d,s,s",
+        "category":"mission"
+    },
+    {
+        "id": 54,
+        "name": "탐광드릴",
+        "commands": "s,s,a,d,s,s",
+        "category":"mission"
+    },
+    {
+        "id": 55,
+        "name": "SSSD 전달",
+        "commands": "s,s,s,w,w",
+        "category":"mission"
+    },
+    {
+        "id": 56,
+        "name": "SSSD 전달(오토마톤 관제탑)",
+        "commands": "s,s,s,s,s,w,w",
+        "category":"mission"
+    }
+]
