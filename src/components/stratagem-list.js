@@ -42,12 +42,6 @@ function StratagemList({selectedData, setSelectedData, category}){
                     disablePadding
                 >
                     <ListItemButton role={undefined} onClick={handleToggle(value)} dense>
-                        {/* <ListItemAvatar>
-<Avatar
-alt={`Avatar n°${value + 1}`}
-src={`/static/images/avatar/${value + 1}.jpg`}
-/>
-</ListItemAvatar> */}
                         <ListItemIcon>
                             <Checkbox
                                 edge="start"

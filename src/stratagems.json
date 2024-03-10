@@ -355,5 +355,11 @@
         "name": "SSSD 전달(오토마톤 관제탑)",
         "commands": "s,s,s,s,s,w,w",
         "category":"mission"
+    },
+    {
+        "id": 57,
+        "name": "EXO-45 애국자 엑소슈트",
+        "commands": "a,s,d,w,a,s,s",
+        "category":"supply"
     }
 ]

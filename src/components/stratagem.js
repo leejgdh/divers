@@ -51,14 +51,12 @@ function Stratagem({ setSelectedStratagems }) {
         setValue(newValue);
     };
 
-    const [checked, setChecked] = React.useState([]);
-
     const [selectedData, setSelectedData] = React.useState([]);
 
 
     const handleClear = () => {
-        //setChecked([]);
         setSelectedData([]);
+        setSelectedStratagems([])
     };
 
     React.useEffect(() => {
@@ -72,7 +70,6 @@ function Stratagem({ setSelectedStratagems }) {
                 Clear
             </Button>
             </div>
-            
 
             <Box sx={{ width: '100%' }}>
                 <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
